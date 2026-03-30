@@ -172,3 +172,8 @@ mission15/
 ```
 
 ---
+## 📓 노트북 보기
+
+GitHub 렌더링 제한으로 인해 아래 링크에서 노트북을 확인하세요.
+
+👉 [nbviewer에서 열기](https://nbviewer.org/github/kuroMJ-rider/mission15/blob/main/mission15_final.ipynb)
