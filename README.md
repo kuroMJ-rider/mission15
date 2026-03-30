@@ -172,5 +172,3 @@ mission15/
 ```
 
 ---
-
-*DA12기 4팀 전미정 | Codeit Sprint Mission 15*
