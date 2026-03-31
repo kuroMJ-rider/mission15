@@ -104,7 +104,7 @@ Elbow Method(k=2~15) + Silhouette Score(k=2~9) 탐색 → k=4, k=5 프로파일 
 
 > **8.7%의 고객(VVIP + 일반 활성형)이 전체 구매액의 48.1%를 차지한다.**
 
-한스 로슬링(팩트풀니스)의 80/20 법칙이 이 데이터에서도 작동 — 마케팅 예산은 이 8.7%를 먼저 처리해야 한다.
+파레토(Vilfredo Pareto)의 80/20 법칙이 이 데이터에서도 작동 — 마케팅 예산은 이 8.7%를 먼저 처리해야 한다.
 
 ### 가설 1 — 구매 방식이 소비력을 가른다 ✅ 검증됨
 
@@ -162,12 +162,8 @@ Elbow Method(k=2~15) + Silhouette Score(k=2~9) 탐색 → k=4, k=5 프로파일 
 
 ```
 mission15/
-├── notebook/
-│   └── mission15_final.ipynb
-├── data/
-│   └── credit_card.csv
-├── report/
-│   └── 15_분석실습_4팀_전미정_보고서.pdf
+├── mission15_final.ipynb
+├── mission15_report_final.pdf
 └── README.md
 ```
 
